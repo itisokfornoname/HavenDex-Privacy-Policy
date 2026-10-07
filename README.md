@@ -71,3 +71,7 @@ The code of BallsDex is open source under the MIT licence and available at https
 ### MICROSTATEDEX REMASTERED DID NOT OPT INTO LOGGING.
 
 ----
+
+#### Previous:
+
+- The [Terms of Service](https://github.com/itisokfornoname/MicrostateDex-ToS) for MicrostateDex Remastered.
