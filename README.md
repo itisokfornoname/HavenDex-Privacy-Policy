@@ -1,15 +1,15 @@
-# MicrostateDex Remastered Discord Bot - Privacy Policy
+# HavenDex Discord Bot - Privacy Policy
 
-The following document explains what data is collected by MicrostateDex Remastered.
+The following document explains what data is collected by HavenDex.
 
 ### Glossary
 
 - "Application" or "Discord application" refers to the Discord bot user, its associated owners and the servers is has
 - "Data" refers to data stored by an individual instance, including personal data
 - "Bot" or "instance" refers to the copy of the code running the Discord application, with its own data
-- "Collectible" refers to any object that is meant to be collected, such as microstates or other future means like virtual currency
-- "Application owners" refers to the owners of the Discord application, meaning the one with any form of access to the application's authentication method and data belonging to the instance. This is usually referred to as the "MicrostateDex Remastered Core Team" or "MicrostateDex Remastered Team".
-- "MicrostateDex Remastered Moderation Team" or "Moderation Team" refers to the owners of the Discord application and the users they may choose to be part of the Moderation Team. You may find a list of these users on the [Discord server](https://discord.gg/cbcNKTDZvC).
+- "Collectible" refers to any object that is meant to be collected, such as Havens or other future means like virtual currency
+- "Application owners" refers to the owners of the Discord application, meaning the one with any form of access to the application's authentication method and data belonging to the instance. This is usually referred to as the "HavenDex Core Team" or "HavenDex Team".
+- "HavenDex Moderation Team" or "Moderation Team" refers to the owners of the Discord application and the users they may choose to be part of the Moderation Team. You may find a list of these users on the [Discord server](https://discord.gg/cbcNKTDZvC).
 
 ### BallsDex’s MIT License:
 
@@ -37,13 +37,13 @@ The code of BallsDex is open source under the MIT licence and available at https
 
 ## What Data IS Collected:
 
-### MicrostateDex Remastered collects the following data from Discord:
+### HavenDex collects the following data from Discord:
 
 - User IDs, this is used to identify you inside our database.
 - Server (or guild) IDs, this is used to store settings necessary to the bot's operation.
 - Channel IDs, this is used to know in which channel the collectibles should spawn.
 
-### In addition, the following data proper to MicrostateDex Remastered is created and used:
+### In addition, the following data proper to HavenDex is created and used:
 
 - The list of collectibles owned by a user of the service.
 - A history of trades done on collectibles, including the users that once owned the said collectible but do not anymore.
@@ -60,7 +60,7 @@ The code of BallsDex is open source under the MIT licence and available at https
 
 	•	The only people allowed to access the data are the application owners.
 	•	Any application owner may interact with the bot and the administrator interface.
-	•	The MicrostateDex Remastered moderation teams do not have access to the data.
+	•	The HavenDex moderation teams do not have access to the data.
 	•	The data may never be made available to the public, and its access must be secured accordingly.
 
 ## Your Rights:
@@ -68,10 +68,10 @@ The code of BallsDex is open source under the MIT licence and available at https
 	•	You may request a copy or the deletion of your personal data held by the application by contacting the application owners. The recommended way is by creating a ticket through the [Discord server](https://discord.gg/cbcNKTDZvC)’s (#open-a-ticket) channel.
 	•	You may read more about Google's usage of the data at https://cloud.google.com/speech-to-text/docs/data-usage-faq.
 
-### MICROSTATEDEX REMASTERED DID NOT OPT INTO LOGGING.
+### HavenDex DID NOT OPT INTO LOGGING.
 
 ----
 
 #### Previous:
 
-- The [Terms of Service](https://github.com/itisokfornoname/MicrostateDex-ToS) for MicrostateDex Remastered.
+- The [Terms of Service](https://github.com/itisokfornoname/HavenDex-ToS) for HavenDex.
